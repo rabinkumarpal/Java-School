@@ -6,7 +6,7 @@ class for_loop {
     int n = 5;
     // for loop  
     for (int i = 1; i <= n; ++i) {
-      System.out.println("Java is a Programming language");
+      System.out.println("Java is a Programming language 1");
     }
   }
 }
